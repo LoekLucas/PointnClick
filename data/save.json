@@ -1,5 +1,7 @@
 {
     "inventory": [],
     "coinPickedUp": false,
+    "coin2PickedUp": false,
+    "coin3PickedUp": false,
     "saveGameUsed": true
 }
